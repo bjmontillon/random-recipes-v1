@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/bjmontillon/random-recipes-v1/static/css/main.ffdd96ae.chunk.css",
-    "main.js": "/bjmontillon/random-recipes-v1/static/js/main.267c5c71.chunk.js",
-    "main.js.map": "/bjmontillon/random-recipes-v1/static/js/main.267c5c71.chunk.js.map",
-    "runtime-main.js": "/bjmontillon/random-recipes-v1/static/js/runtime-main.d96bb3aa.js",
-    "runtime-main.js.map": "/bjmontillon/random-recipes-v1/static/js/runtime-main.d96bb3aa.js.map",
-    "static/js/2.4db4457e.chunk.js": "/bjmontillon/random-recipes-v1/static/js/2.4db4457e.chunk.js",
-    "static/js/2.4db4457e.chunk.js.map": "/bjmontillon/random-recipes-v1/static/js/2.4db4457e.chunk.js.map",
-    "static/js/3.2ba6ccc6.chunk.js": "/bjmontillon/random-recipes-v1/static/js/3.2ba6ccc6.chunk.js",
-    "static/js/3.2ba6ccc6.chunk.js.map": "/bjmontillon/random-recipes-v1/static/js/3.2ba6ccc6.chunk.js.map",
+    "main.js": "/bjmontillon/random-recipes-v1/static/js/main.bbdaf24c.chunk.js",
+    "main.js.map": "/bjmontillon/random-recipes-v1/static/js/main.bbdaf24c.chunk.js.map",
+    "runtime-main.js": "/bjmontillon/random-recipes-v1/static/js/runtime-main.c2fb2479.js",
+    "runtime-main.js.map": "/bjmontillon/random-recipes-v1/static/js/runtime-main.c2fb2479.js.map",
+    "static/js/2.9a131356.chunk.js": "/bjmontillon/random-recipes-v1/static/js/2.9a131356.chunk.js",
+    "static/js/2.9a131356.chunk.js.map": "/bjmontillon/random-recipes-v1/static/js/2.9a131356.chunk.js.map",
+    "static/js/3.cab2ab57.chunk.js": "/bjmontillon/random-recipes-v1/static/js/3.cab2ab57.chunk.js",
+    "static/js/3.cab2ab57.chunk.js.map": "/bjmontillon/random-recipes-v1/static/js/3.cab2ab57.chunk.js.map",
     "index.html": "/bjmontillon/random-recipes-v1/index.html",
     "static/css/main.ffdd96ae.chunk.css.map": "/bjmontillon/random-recipes-v1/static/css/main.ffdd96ae.chunk.css.map",
-    "static/js/2.4db4457e.chunk.js.LICENSE.txt": "/bjmontillon/random-recipes-v1/static/js/2.4db4457e.chunk.js.LICENSE.txt"
+    "static/js/2.9a131356.chunk.js.LICENSE.txt": "/bjmontillon/random-recipes-v1/static/js/2.9a131356.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.d96bb3aa.js",
-    "static/js/2.4db4457e.chunk.js",
+    "static/js/runtime-main.c2fb2479.js",
+    "static/js/2.9a131356.chunk.js",
     "static/css/main.ffdd96ae.chunk.css",
-    "static/js/main.267c5c71.chunk.js"
+    "static/js/main.bbdaf24c.chunk.js"
   ]
 }
